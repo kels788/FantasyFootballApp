@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/activation-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/commons-codec-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/commons-httpclient-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/commons-logging-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/jackson-xc-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/jersey-apache-client-1.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/jersey-client-1.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/jersey-core-1.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/jersey-json-1.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/jettison-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/client_jars/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="libs/client_jars/stax-api-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/ff_jars/ff_client-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/ff_jars/ff_common-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

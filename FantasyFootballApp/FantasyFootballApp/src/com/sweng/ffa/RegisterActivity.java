@@ -5,7 +5,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.View;
-import android.widget.Button;
 import android.widget.EditText;
 
 public class RegisterActivity extends Activity {
@@ -17,8 +16,6 @@ public class RegisterActivity extends Activity {
 	private EditText etLastName;
 	private EditText etEmail;
 	private EditText etMobile;
-	private Button bSave;
-	private Button bCancel;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -41,8 +38,6 @@ public class RegisterActivity extends Activity {
     	etLastName = (EditText)findViewById(R.id.etLastName);
     	etEmail = (EditText)findViewById(R.id.etEmail);
     	etMobile = (EditText)findViewById(R.id.etMobile);
-    	bSave = (Button)findViewById(R.id.bSave);
-    	bCancel = (Button)findViewById(R.id.bCancel);
     }
     
     public void save(View view) {
